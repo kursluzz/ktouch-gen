@@ -89,7 +89,7 @@ def to_xml(lesons_list: list):
 <course>
  <id>{{{uuid.uuid4()}}}</id>
  <title>Hebrew</title>
- <description>Created by Oleg Tendler &lt;kursluzz@gmail.com&gt; Israel 2019
+ <description>Created by Oleg Tendler &lt;kursluzz@yandex.ru&gt; Israel 2019
 Lessons generation script: https://github.com/kursluzz/ktouch-gen
 Homepage: https://kursluzz.wordpress.com/</description>
  <keyboardLayout>hebrew</keyboardLayout>
