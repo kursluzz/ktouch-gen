@@ -108,7 +108,7 @@ for lesson_i, new_lesson_chars in enumerate(lessons_char_list):
     })
 for lesson_i, new_lesson_chars in enumerate(lessons_symbol_list):
     lessons.append({
-        'title': f'תוים {new_lesson_chars}',
+        'title': f'סימני פיסוק {new_lesson_chars}',
         'new_chars': f'{new_lesson_chars}',
         'text': get_symbols_lesson_text(new_lesson_chars, ''.join(lessons_char_list)),
     })
