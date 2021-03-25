@@ -1,1 +1,1 @@
-pyYaml==5.1.1
+pyYaml==5.4
